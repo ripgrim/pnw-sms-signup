@@ -13,6 +13,3 @@ const nextConfig: NextConfig = {
 
 export default nextConfig;
 
-// Added by @opennextjs/cloudflare
-import { initOpenNextCloudflareForDev } from "@opennextjs/cloudflare";
-initOpenNextCloudflareForDev();

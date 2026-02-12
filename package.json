@@ -5,9 +5,6 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "build:cf": "npx @opennextjs/cloudflare build",
-    "preview": "npx wrangler dev",
-    "deploy": "npx @opennextjs/cloudflare build && npx wrangler deploy",
     "start": "next start",
     "lint": "eslint"
   },
